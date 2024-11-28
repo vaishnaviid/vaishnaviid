@@ -8,7 +8,7 @@
 
 - 📫 How to reach me- just drop a text! **vaishnavidhawalekar@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mfrZZHWc0_4tX1nqne6Du34JTkYu5hwF/view?usp=sharing](https://drive.google.com/file/d/1mfrZZHWc0_4tX1nqne6Du34JTkYu5hwF/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1mfrZZHWc0_4tX1nqne6Du34JTkYu5hwF/view?usp=sharing]((https://drive.google.com/file/d/1mfrZZHWc0_4tX1nqne6Du34JTkYu5hwF/view?usp=sharing))
 
 - 😄 Pronouns: she/her
 
