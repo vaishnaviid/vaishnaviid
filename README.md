@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi Dhawalekar</h1>
 - 👨‍💻 Software Engineer focused on creating efficient and user-friendly solutions.
 
-- 🌱 I’m currently learning **AWS, reactjs.**
+- 🌱 I’m currently learning **AWS, Devops.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vaishnaviid?tab=repositories](https://github.com/vaishnaviid?tab=repositories)
 
