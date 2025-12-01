@@ -1,5 +1,5 @@
 
-<h1 align="center"> 👩‍💻🔧💻 Vaishnavi Dhawalekar | Cloud & DevOps Engineer</h1>
+<h1 align="center"> 👩‍💻🔧💻 Vaishnavi D | Cloud & DevOps Engineer</h1>
 <p align="center">
   <i>Automating the Cloud • Building Scalable Infrastructure • Making DevOps Smarter, One Script at a Time</i>
 </p>
