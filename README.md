@@ -1,10 +1,18 @@
 
-<h1 align="center">Hi 👋, I'm Vaishnavi Dhawalekar</h1>
-- 👨‍💻 Software Engineer focused on creating efficient and user-friendly solutions.
+<h1 align="center"> 👩‍💻🔧💻 Vaishnavi Dhawalekar | Cloud & DevOps Engineer</h1>
+<p align="center">
+  <i>Automating the Cloud • Building Scalable Infrastructure • Making DevOps Smarter, One Script at a Time</i>
+</p>
 
-- 🌱 I’m currently learning **AWS, Devops.**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=00F5A0&width=500&lines=Hi%2C+I%E2%80%99m+Vaishnavi+%F0%9F%91%8B;Cloud+%26+DevOps+Engineer;AWS+%2B+Terraform+%2B+Jenkins+%2B+Python;Automating+Workflows+and+Infrastructure;Let's+Build+Scalable+Solutions!" alt="Typing SVG" />
+</p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/vaishnaviid?tab=repositories](https://github.com/vaishnaviid?tab=repositories)
+
+👩‍💻 **Cloud & DevOps Engineer** with **1 year of professional experience** building **AWS cloud solutions** and **automated DevOps workflows**.  
+- 🌱 Enhancing expertise in AWS Cloud, DevOps, CI/CD, IaC, and Python automation
+- 👯 Open to collaboration on cloud, DevOps, and open-source projects
+- 🏗️ Focused on building cloud-native solutions and scalable, automated infrastructure 
 
 - 📫 How to reach me- just drop a text! **vaishnavidhawalekar@gmail.com**
 
@@ -13,7 +21,6 @@
 - 😄 Pronouns: she/her
 
 - ⚡ Fun fact: **When I’m not coding, you’ll find me sketching portraits and bringing ideas to life on paper!**
-
 
 ## 💻 My Tech Stack
 
