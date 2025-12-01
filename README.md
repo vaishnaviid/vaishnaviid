@@ -14,13 +14,12 @@
 - 👯 Open to collaboration on cloud, DevOps, and open-source projects
 - 🏗️ Focused on building cloud-native solutions and scalable, automated infrastructure 
 
-- 📫 How to reach me- just drop a text! **vaishnavidhawalekar@gmail.com**
-
 - 📄 Know about my experiences [https://drive.google.com/file/d/1mfrZZHWc0_4tX1nqne6Du34JTkYu5hwF/view?usp=sharing](https://drive.google.com/file/d/1C332urznBm7j8Zaoun6zGBFET2hOfkVT/view?usp=sharing)
 
 - 😄 Pronouns: she/her
 
 - ⚡ Fun fact: **When I’m not coding, you’ll find me sketching portraits and bringing ideas to life on paper!**
+
 
 ## 💻 My Tech Stack
 
@@ -64,6 +63,14 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" alt="Bitbucket" title="Bitbucket" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="Jira" title="Jira" width="50" height="50"/>
 </p>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=vaishnaviid&theme=blueberry&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=vaishnaviid&theme=blueberry&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnaviid&theme=blueberry&hide_border=true&include_all_commits=true&count_private=false&layout=compact) 
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vaishnavidhawalekar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vaishnavidhawalekar@gmail.com) 
 
 
 
