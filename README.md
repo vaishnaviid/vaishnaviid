@@ -16,8 +16,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1mfrZZHWc0_4tX1nqne6Du34JTkYu5hwF/view?usp=sharing](https://drive.google.com/file/d/1C332urznBm7j8Zaoun6zGBFET2hOfkVT/view?usp=sharing)
 
-- 😄 Pronouns: she/her
-
 - ⚡ Fun fact: **When I’m not coding, you’ll find me sketching portraits and bringing ideas to life on paper!**
 
 
