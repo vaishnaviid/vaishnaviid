@@ -14,7 +14,7 @@
 - 👯 Open to collaboration on cloud, DevOps, and open-source projects
 - 🏗️ Focused on building cloud-native solutions and scalable, automated infrastructure 
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mfrZZHWc0_4tX1nqne6Du34JTkYu5hwF/view?usp=sharing](https://drive.google.com/file/d/1C332urznBm7j8Zaoun6zGBFET2hOfkVT/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1C332urznBm7j8Zaoun6zGBFET2hOfkVT/view?usp=sharing](https://drive.google.com/file/d/12mhK4nyu6ClH4pUJg4q5IED0ErXgjFG2/view?usp=sharing)
 
 - ⚡ Fun fact: **When I’m not coding, you’ll find me sketching portraits and bringing ideas to life on paper!**
 
