@@ -8,7 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=00F5A0&width=500&lines=Hi%2C+I%E2%80%99m+Vaishnavi+Dhawalekar%F0%9F%91%8B;Cloud+%26+DevOps+Engineer;AWS+%2B+Terraform+%2B+Jenkins+%2B+Python;Automating+Workflows+and+Infrastructure;Let's+Build+Scalable+Solutions!" alt="Typing SVG" />
 </p>
 
-
 👩‍💻 **Cloud & DevOps Engineer** with **1 year of professional experience** building **AWS cloud solutions** and **automated DevOps workflows**.  
 - 🌱 Enhancing expertise in AWS Cloud, DevOps, CI/CD, IaC, and Python automation
 - 👯 Open to collaboration on cloud, DevOps, and open-source projects
