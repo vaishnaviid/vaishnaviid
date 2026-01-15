@@ -3,7 +3,7 @@
 <p align="center">
   <i>Automating the Cloud • Building Scalable Infrastructure • Making DevOps Smarter, One Script at a Time</i> 
 </p>  
-
+      
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=00F5A0&width=500&lines=Hi%2C+I%E2%80%99m+Vaishnavi+Dhawalekar%F0%9F%91%8B;Cloud+%26+DevOps+Engineer;AWS+%2B+Terraform+%2B+Jenkins+%2B+Python;Automating+Workflows+and+Infrastructure;Let's+Build+Scalable+Solutions!" alt="Typing SVG" />
 </p>
